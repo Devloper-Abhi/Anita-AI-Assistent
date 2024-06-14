@@ -11,8 +11,6 @@ Install modules
 Also you can make this requirement.txt file and run it:
 
 
-    Requrement.txt:
-
          modules = [
             "pywhatkit",
             "SpeechRecognition",
